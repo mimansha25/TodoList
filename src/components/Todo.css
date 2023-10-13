@@ -1,0 +1,22 @@
+#container{
+    background-color: antiquewhite;
+    border: 2px;
+    justify-content:  center;
+    color: blue;
+
+}
+
+#addItems{
+   
+}
+
+#showItems{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 2px;
+    height: 30px;
+   
+}
+#addBtn{
+    size: 10px;
+}
